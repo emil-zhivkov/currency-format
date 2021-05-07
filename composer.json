@@ -1,0 +1,14 @@
+{
+    "name": "emil-zhivkov/currency-format",
+    "description": "Format price and currency for all countries",
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Emil Zhivkov",
+            "email": "emil.zhivkov@webcode.bg"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
